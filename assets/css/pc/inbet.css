@@ -1,0 +1,51 @@
+body{
+    background-color: #20634E;
+}
+
+.main{
+    background: rgba(0, 0, 0, 0.641);
+    border-radius: 10px;
+}
+
+.dog{
+    background-color: #0b543d;
+   
+ 
+}
+
+.accordion{
+background-color: #0a4834;
+}
+
+.fav{
+    border-radius: 8px;
+    background: #1c7559
+}
+.with-gap {
+    margin-right: 15px; /* İstediğiniz boşluğa göre ayarlayabilirsiniz */
+  }
+
+p{
+    font-size: 15px;
+}
+
+.bet{
+    /* Header / 14 / Bold */
+font-family: Open Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+color: #ACFB75;
+}
+
+.bet-main{
+    background-color: #0a4834;
+}
+
+.betp{
+    font-size: 10px;
+    margin-top: 10px;
+    color: rgb(54, 54, 54);
+    font-weight: bolder;
+}

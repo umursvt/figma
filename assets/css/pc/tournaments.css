@@ -1,0 +1,16 @@
+body{
+    background-color: #16523F;
+}
+
+.main{
+    background: rgba(0, 0, 0, 0.312);
+    border-radius: 10px;
+}
+
+.date1{
+    color: #1BB040;
+}
+
+.date2{
+    color: #FA3333;
+}

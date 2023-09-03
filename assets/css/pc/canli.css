@@ -1,0 +1,57 @@
+.container-fluid{
+    background-color: #16523F;
+    color: white;
+    font-size: 18px;
+}
+
+.container-fluid .main{
+    background-image: url("/assets/img/pc/canli/image\ 33.png"),
+                        linear-gradient(rgba(255, 255, 255, 0.286), rgba(255, 255, 255, 0.27));
+    
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding: 20px;
+    color: white; /* Yazı rengi */
+   
+    text-align: center;
+    height: 268px;
+    padding-top: 50px;
+}
+
+
+.second{
+    background-color:#20634E;
+    
+   
+   
+    
+}
+
+.deneme{
+    border: 3px solid blue;
+}
+
+
+
+
+.border{
+    background-color:#20634E;
+}
+.marketler{
+    background-color:#20634E;
+}
+
+.text-sm{
+    font-size: 10px;
+}
+
+.buttons{
+    background-color: #20634E;
+    border: 0;
+}
+
+.alt-ust{
+    background-color: #16523F;
+}
+
+

@@ -1,0 +1,36 @@
+.casino-container{
+    background-color: #16523F;
+}
+
+.seach-casino{
+    display: flex;
+    width: 130px;
+    padding: 8px 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+background: rgba(255, 255, 255, 0.20);
+}
+
+.seach-casino::placeholder {
+    color: white;
+    padding-left: 20px;
+  }
+
+  .search-icon {
+    position: absolute;
+    bottom: 1%;
+    left: 20px;
+    transform: translateY(-50%);
+    color: white;
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }
+
+  .casino-buttons{
+    background-color: #11362b;
+  }

@@ -1,0 +1,25 @@
+body{
+    background-color: #16523F;
+}
+
+.main{
+    background-color: #11362b;
+    border-radius: 10px;
+}
+
+.right{
+    background-color: #16523F;
+    border-radius: 10px;
+}
+
+.left{
+    background-color: #16523F;
+    border-radius: 10px;
+}
+
+.rate-button button{
+    border-radius: 10px;
+    background-color: #16523F;
+    border: none;
+    color: white;
+}

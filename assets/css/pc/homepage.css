@@ -1,0 +1,48 @@
+.main-container{
+    background-color: #16523F;
+}
+
+.slider-buttons{
+  
+    background-color: #022b1e70;
+}
+
+.pay-button{
+    background-color: #16523F;
+    border: none;
+}
+.slider-button-left{
+    background-color: #022b1e70;
+    border: none;
+    
+}
+
+.custom-card {
+    background-color: #022b1e70;
+    background-image: url('/assets/img/pc/homepage/image\ 46.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card-body p{
+    font-size: 30px;
+}
+
+.card-img-rigt-top{
+    width: 280px;
+}
+
+.right-top{
+ 
+    height: 340px;
+}
+
+.card-img-down{
+   
+    width: 200px;
+}
+
+
+
+

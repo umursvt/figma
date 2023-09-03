@@ -1,0 +1,19 @@
+body{
+    background-color: #20634E;
+}
+
+.casino-buttons{
+    background-color: #11362b;
+    
+  }
+
+  p{
+    color: #FFF;
+
+/* Header / 14 / Bold */
+font-family: Open Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+  }

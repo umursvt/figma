@@ -1,0 +1,54 @@
+
+.header-container{
+    background-color: #022B1E;
+    width: 1440px;
+    height: 92px;
+    flex-shrink: 0;
+    padding-top: 30px;
+}
+
+.para-yatir{
+    display: flex;
+    padding: 6px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    
+    background: #DCC800;
+}
+
+.para-yazi{
+    margin-top: 5px;
+    color: var(--main-green, #022B1E);
+font-family: Open Sans;
+font-size: 13px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.header-2-container{
+    background-color: #336154;
+ 
+    height: 36px;
+    top: 56px;
+
+}
+
+.header-2-yazi{
+    color: #FFF;
+
+/* Header / 12 / Bold */
+font-family: Open Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.buton-giris{
+    background-color: #022B1E;
+    border: none;
+    
+}
